@@ -1,0 +1,6 @@
+{
+  "name": "Felvételi Helyesírás Mester - 8. Osztályos Felkészítő",
+  "description": "Interaktív, fiatalos helyesírás gyakorló a 8. osztályos középiskolai felvételire: hibavadászat, igeragozós kiegészítő, 5/15 Lottó, TOTÓ 1-2-X-0, és szólás-kiegészítő részletes szabálymagyarázatokkal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
